@@ -22,9 +22,9 @@
 
 11. **git branch** - построить список веток в репозитории
 
-12. **git checkout branch_name** - переход к ветке branch_name
+12. **git branch branch_name** - создать новую ветку branch_name 
 
-13. **git branch branch_name** - создать новую ветку branch_name 
+13. **git checkout branch_name** - переход к ветке branch_name
 
 Для более подробного изучения возиожностей Git предлагаю перейте по ссылке [КЛАЦ!](https://habr.com/ru/articles/541258/)
 
