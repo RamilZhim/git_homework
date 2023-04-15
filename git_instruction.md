@@ -26,6 +26,12 @@
 
 13. **git checkout branch_name** - переход к ветке branch_name
 
+14. **git branch -d branch_name** - удалит ветку branch_name
+
+15. **git log --graph** - визуализирует коммиты
+
+16. **git checkout -b branch_name** - создает и переходит в новую ветку branch_name
+
 Для более подробного изучения возиожностей Git предлагаю перейте по ссылке [КЛАЦ!](https://habr.com/ru/articles/541258/)
 
 ![git_picture](git.jpg)
